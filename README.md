@@ -34,9 +34,11 @@ Aquí algunos de mis proyectos más recientes:
 
 ## 📊 Mi actividad en GitHub
 
+![dcuencag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=dcuencag&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 ![dcuencag's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dcuencag&theme=github_dark)
 
-![dcuencag's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcuencag&theme=tokyonight&hide_border=false)  ![dcuencag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcuencag&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![dcuencag's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcuencag&theme=tokyonight&hide_border=false)  
 
 <!--
 **dcuencag/dcuencag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
