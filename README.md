@@ -19,7 +19,7 @@ Aquí algunos de mis proyectos más recientes:
 
 ### 📫 Conéctate conmigo
 
-[![Email](https://img.shields.io/badge/Email-d@loscuenca.com-red?style=flat&logo=gmail&logoColor=white)](mailto:d@loscuenca.com)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:d@loscuenca.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daniel-cuenca-gutiérrez)  
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dcuencag)  
 
@@ -27,7 +27,7 @@ Aquí algunos de mis proyectos más recientes:
 
 ### 42 Cursus
 
-[![dancuenc's 42 stats](https://badge.mediaplus.ma/darkblue/dancuenc)](https://github.com/dancuenc/badge42)
+[![dancuenc 42 stats](https://badge.mediaplus.ma/Darkblue/ismherna?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <!--
 **dcuencag/dcuencag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
