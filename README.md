@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# 42 Cursus
+
 [![dancuenc's 42 stats](https://badge.mediaplus.ma/darkblue/dancuenc)](https://github.com/dancuenc/badge42)
 
 <!--
