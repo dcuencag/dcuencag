@@ -1,10 +1,28 @@
-## Hi there 👋
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dancuenc)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/daniel-cuenca-gutiérrez)
+# 👋 ¡Hola! Soy Daniel Cuenca
 
-- 🔭 I'm currently a student at 42 Madrid.
+### 🔧 Tecnologías y herramientas
 
-- 🌱 For the moment this github profile will be a place to host the projects I work on 42.
+🖥 **Lenguajes**: C, JavaScript  
+🔩 **Herramientas**: Terminal de macOS, Git, VS Code  
+📚 **Aprendiendo**: Desarrollo web, estructuras de datos, optimización de código  
+
+---
+
+### 📌 Proyectos destacados
+
+Aquí algunos de mis proyectos más recientes:
+
+- 📚 **[libft](https://github.com/dcuencag/libft)** – Implementación de una biblioteca estándar en C.
+- 🚀 **[get_next_line](https://github.com/dcuencag/get_next_line)** – Manejo eficiente de lectura de archivos en C.
+
+---
+
+### 📫 Conéctate conmigo
+Si quieres hablar sobre programación o cualquier otro tema interesante:
+
+- 📧 **Email**: [d@loscuenca.com](mailto:d@loscuenca.com)  
+- 🌍 **LinkedIn**: [linkedin.com/in/daniel-cuenca-gutiérrez](https://linkedin.com/in/daniel-cuenca-gutiérrez)  
+- 🖥️ **GitHub**: [github.com/dcuencag](https://github.com/dcuencag)  
 
 # 42 Cursus
 
