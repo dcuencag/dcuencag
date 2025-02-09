@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dancuenc)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/daniel-cuenca-gutiérrez)
 
 - 🔭 I'm currently a student at 42 Madrid.
 
