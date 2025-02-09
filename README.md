@@ -19,9 +19,9 @@ Aquí algunos de mis proyectos más recientes:
 
 ### 📫 Conéctate conmigo
 
-[![Email](https://img.shields.io/badge/Email-d@loscuenca.com-red?style=for-the-badge&logo=gmail)](mailto:d@loscuenca.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Cuenca-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/daniel-cuenca-gutiérrez)  
-[![GitHub](https://img.shields.io/badge/GitHub-dcuencag-black?style=for-the-badge&logo=github)](https://github.com/dcuencag)  
+[![Email](https://img.shields.io/badge/Email-d@loscuenca.com-red?style=flat&logo=gmail&logoColor=white)](mailto:d@loscuenca.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daniel-cuenca-gutiérrez)  
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dcuencag)  
 
 ---
 
@@ -43,4 +43,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
