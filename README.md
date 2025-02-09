@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-I'm currently a student at 42 Madrid.
-For the moment this github profile will be a place to host the projects I work on 42.
+- 🔭 I'm currently a student at 42 Madrid.
+
+- 🌱 For the moment this github profile will be a place to host the projects I work on 42.
 
 # 42 Cursus
 
 [![dancuenc's 42 stats](https://badge.mediaplus.ma/darkblue/dancuenc)](https://github.com/dancuenc/badge42)
+
 
 <!--
 **dcuencag/dcuencag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
