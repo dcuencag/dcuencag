@@ -11,7 +11,6 @@
 #### 🔩 Herramientas:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
-<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/2/29/MacOS_logo.svg"></code>
 
 #### 📚 Aprendiendo:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
