@@ -11,7 +11,7 @@
 #### 🔩 Tools:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
-<code><img width="5%" src="https://legal.hubspot.com/hubfs/guidelines_the-sprocket.svg"></code>
+<code><img width="5%" src="https://w7.pngwing.com/pngs/578/43/png-transparent-hubspot-hd-logo-thumbnail.png"></code>
 
 #### 📚 Learning:
 - C programming
