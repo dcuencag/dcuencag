@@ -1,30 +1,30 @@
-# 👋 ¡Hola! Soy Daniel Cuenca
+# 👋 Hi! I'm Daniel Cuenca
 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:d@loscuenca.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daniel-cuenca-gutiérrez)  [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dcuencag)
 
-### 🔧 Tecnologías y herramientas
+### 🔧 Technologies and Tools
 
-#### 🖥️ Lenguajes:
+#### 🖥️ Languages:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 
-#### 🔩 Herramientas:
+#### 🔩 Tools:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 
-#### 📚 Aprendiendo:
-- Programación en C
-- Algoritmos y estructuras de datos
+#### 📚 Learning:
+- C programming
+- Algorithms and data structures
 - JavaScript
 
 ---
 
-### 📌 Proyectos destacados
+### 📌 Featured Projects
 
-Aquí algunos de mis proyectos más recientes:
+Here are some of my most recent projects:
 
-- 📚 **[libft](https://github.com/dcuencag/libft)** – Implementación de una biblioteca estándar en C.
-- 🚀 **[get_next_line](https://github.com/dcuencag/get_next_line)** – Manejo eficiente de lectura de archivos en C.
+- 📚 **[libft](https://github.com/dcuencag/libft)** – Implementation of a standard library in C.
+- 🚀 **[get_next_line](https://github.com/dcuencag/get_next_line)** – Efficient line-by-line file reading in C.
 
 ---
 
@@ -32,7 +32,7 @@ Aquí algunos de mis proyectos más recientes:
 
 [![dancuenc 42 stats](https://badge.mediaplus.ma/Darkblue/dancuenc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-## 📊 Mi actividad en GitHub
+## 📊 My GitHub Activity
 
 ![dcuencag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcuencag&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)  
 
