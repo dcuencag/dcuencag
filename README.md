@@ -30,7 +30,7 @@ Aquí algunos de mis proyectos más recientes:
 
 ### 42 Cursus
 
-[![dancuenc's 42 stats](https://badge.mediaplus.ma/darkblue/dancuenc)](https://github.com/dancuenc/badge42)
+[![dancuenc 42 stats](https://badge.mediaplus.ma/Darkblue/dancuenc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 📊 Mi actividad en GitHub
 
