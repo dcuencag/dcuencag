@@ -18,16 +18,16 @@ Aquí algunos de mis proyectos más recientes:
 ---
 
 ### 📫 Conéctate conmigo
-Si quieres hablar sobre programación o cualquier otro tema interesante:
 
-- 📧 **Email**: [d@loscuenca.com](mailto:d@loscuenca.com)  
-- 🌍 **LinkedIn**: [linkedin.com/in/daniel-cuenca-gutiérrez](https://linkedin.com/in/daniel-cuenca-gutiérrez)  
-- 🖥️ **GitHub**: [github.com/dcuencag](https://github.com/dcuencag)  
+[![Email](https://img.shields.io/badge/Email-d@loscuenca.com-red?style=for-the-badge&logo=gmail)](mailto:d@loscuenca.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Cuenca-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/daniel-cuenca-gutiérrez)  
+[![GitHub](https://img.shields.io/badge/GitHub-dcuencag-black?style=for-the-badge&logo=github)](https://github.com/dcuencag)  
 
-# 42 Cursus
+---
+
+### 42 Cursus
 
 [![dancuenc's 42 stats](https://badge.mediaplus.ma/darkblue/dancuenc)](https://github.com/dancuenc/badge42)
-
 
 <!--
 **dcuencag/dcuencag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
