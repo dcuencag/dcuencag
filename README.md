@@ -13,9 +13,9 @@
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 
 #### 📚 Aprendiendo:
-<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
-<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+- Programación en C
+- Algoritmos y estructuras de datos
+- JavaScript
 
 ---
 
