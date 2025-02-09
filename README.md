@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![dancuenc's 42 stats](https://badge.mediaplus.ma/darkblue/dancuenc)](https://github.com/dancuenc/badge42)
+
 <!--
 **dcuencag/dcuencag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
