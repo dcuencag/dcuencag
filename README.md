@@ -32,8 +32,8 @@ Here are some of my most recent projects:
 
 [![dancuenc 42 stats](https://badge.mediaplus.ma/Darkblue/dancuenc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-- 📚 **[libft](https://github.com/dcuencag/libft)** – Implementation of a standard library in C. → ✅ **125/100**
-- 🚀 **[get_next_line](https://github.com/dcuencag/get_next_line)** – Efficient line-by-line file reading in C. → ✅ **125/100**
+- 📚 **[libft](https://github.com/dcuencag/libft)** – Implementation of a standard library in C. --> ✅ **125/100**
+- 🚀 **[get_next_line](https://github.com/dcuencag/get_next_line)** – Efficient line-by-line file reading in C. --> ✅ **125/100**
 
 ## 📊 My GitHub Activity
 
