@@ -31,8 +31,8 @@ Here are some of my most recent projects:
 ### 42 School
 
 [![dancuenc 42 stats](https://badge.mediaplus.ma/Darkblue/dancuenc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-- 📚 **[libft](https://github.com/dcuencag/libft)** – Implementation of a standard library in C. --> <span style="color: green;">125/100</span>
-- 🚀 **[get_next_line](https://github.com/dcuencag/get_next_line)** – Efficient line-by-line file reading in C. --> <span style="color: green;">125/100</span>
+- 📚 **[libft](https://github.com/dcuencag/libft)** – Implementation of a standard library in C. → ![125/100](https://img.shields.io/badge/125%2F100-brightgreen?style=flat-square)
+- 🚀 **[get_next_line](https://github.com/dcuencag/get_next_line)** – Efficient line-by-line file reading in C. → ![125/100](https://img.shields.io/badge/125%2F100-brightgreen?style=flat-square)
 
 ## 📊 My GitHub Activity
 
