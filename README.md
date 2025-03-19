@@ -6,7 +6,6 @@
 
 #### 🖥️ Languages:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
-<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 
 #### 🔩 Tools:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
