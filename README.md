@@ -35,11 +35,17 @@ Here are some of my most recent projects:
 [![dancuenc 42 stats](https://badge.mediaplus.ma/Darkblue/dancuenc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 **[libft](https://github.com/dcuencag/libft)** – Implementation of a standard library in C. ✅ **125/100**
+
 **[ft_printf](https://github.com/dcuencag/ft_printf)** – Custom implementation of printf in C. ✅ **100/100**
+
 **[get_next_line](https://github.com/dcuencag/get_next_line)** – Efficient line-by-line file reading in C. ✅ **125/100**
+
 **[FdF](https://github.com/dcuencag/fdf)** – 3D wireframe renderer using MiniLibX. ✅ **125/100**
+
 **[push_swap](https://github.com/dcuencag/push_swap)** – Stack-based sorting algorithm with limited operations. ✅ **100/100**
+
 **[Pipex](https://github.com/dcuencag/Pipex)** – Reimplementation of Unix pipes with input/output redirections. ✅ **100/100**
+
 **[Philosophers](https://github.com/dcuencag/philo)** – Thread synchronization and the dining philosophers problem. ✅ **100/100**
 
 
