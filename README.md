@@ -40,13 +40,13 @@ Here are some of my most recent projects:
 
 **[get_next_line](https://github.com/dcuencag/get_next_line)** – Efficient line-by-line file reading in C. ✅ **125/100**
 
-**[FdF](https://github.com/dcuencag/fdf)** – 3D wireframe renderer using MiniLibX. ✅ **125/100**
+**[FdF](https://github.com/dcuencag/fdf)** – 3D wireframe renderer in C using MiniLibX. ✅ **125/100**
 
-**[push_swap](https://github.com/dcuencag/push_swap)** – Stack-based sorting algorithm with limited operations. ✅ **100/100**
+**[push_swap](https://github.com/dcuencag/push_swap)** – Stack-based sorting algorithm with limited operations in C. ✅ **100/100**
 
-**[Pipex](https://github.com/dcuencag/Pipex)** – Reimplementation of Unix pipes with input/output redirections. ✅ **100/100**
+**[Pipex](https://github.com/dcuencag/Pipex)** – Reimplementation of Unix pipes with input/output redirections in C. ✅ **100/100**
 
-**[Philosophers](https://github.com/dcuencag/philo)** – Thread synchronization and the dining philosophers problem. ✅ **100/100**
+**[Philosophers](https://github.com/dcuencag/philo)** – Thread synchronization and the dining philosophers problem in C. ✅ **100/100**
 
 
 ## 📊 My GitHub Activity
