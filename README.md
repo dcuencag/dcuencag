@@ -22,9 +22,11 @@
 
 Here are some of my most recent projects:
 
-- **[libft](https://github.com/dcuencag/libft)** – Implementation of a standard library in C.
+- **[fdf](https://github.com/dcuencag/Fdf)** – An implementation of a 3D wireframe renderer.
+- **[push_swap](https://github.com/dcuencag/push_swap)** – A program that sorts a stack of integers using only a limited set of operations.
 - **[ft_printf](https://github.com/dcuencag/ft_printf)** – Custom implementation of printf in C.
 - **[get_next_line](https://github.com/dcuencag/get_next_line)** – Efficient line-by-line file reading in C.
+- **[libft](https://github.com/dcuencag/libft)** – Implementation of a standard library in C.
 
 ---
 
@@ -32,9 +34,14 @@ Here are some of my most recent projects:
 
 [![dancuenc 42 stats](https://badge.mediaplus.ma/Darkblue/dancuenc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-- 📚 **[libft](https://github.com/dcuencag/libft)** – Implementation of a standard library in C. ✅ **125/100**
-- ✨ **[ft_printf](https://github.com/dcuencag/ft_printf)** – Custom implementation of printf in C. ✅ **100/100**
-- 🚀 **[get_next_line](https://github.com/dcuencag/get_next_line)** – Efficient line-by-line file reading in C. ✅ **125/100**
+**[libft](https://github.com/dcuencag/libft)** – Implementation of a standard library in C. ✅ **125/100**
+**[ft_printf](https://github.com/dcuencag/ft_printf)** – Custom implementation of printf in C. ✅ **100/100**
+**[get_next_line](https://github.com/dcuencag/get_next_line)** – Efficient line-by-line file reading in C. ✅ **125/100**
+**[FdF](https://github.com/dcuencag/fdf)** – 3D wireframe renderer using MiniLibX. ✅ **125/100**
+**[push_swap](https://github.com/dcuencag/push_swap)** – Stack-based sorting algorithm with limited operations. ✅ **100/100**
+**[Pipex](https://github.com/dcuencag/Pipex)** – Reimplementation of Unix pipes with input/output redirections. ✅ **100/100**
+**[Philosophers](https://github.com/dcuencag/philo)** – Thread synchronization and the dining philosophers problem. ✅ **100/100**
+
 
 ## 📊 My GitHub Activity
 
@@ -43,18 +50,3 @@ Here are some of my most recent projects:
 ![dcuencag's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dcuencag&theme=github_dark)
 
 ![dcuencag's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcuencag&theme=tokyonight&hide_border=false)  
-
-<!--
-**dcuencag/dcuencag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔦 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📧 How to reach me: ...
-- 😍 Pronouns: ...
-- ⚡ Fun fact: ...
--->
