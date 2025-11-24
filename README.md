@@ -10,6 +10,7 @@
 #### 🔩 Tools:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"></code>
 
 #### 📚 Learning:
 - C programming
