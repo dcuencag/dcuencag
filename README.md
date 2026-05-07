@@ -63,7 +63,9 @@ A SaaS for intelligent stock management in the vape industry. Scrapes the two ma
 
 ### 📊 GitHub Activity
 
+<!--
 ![dcuencag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcuencag&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+-->
 
 ![dcuencag's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dcuencag&theme=github_dark)
 
