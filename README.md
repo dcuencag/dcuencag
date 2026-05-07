@@ -44,7 +44,7 @@ A SaaS for intelligent stock management in the vape industry. Scrapes the two ma
 
 ### 🎓 42 Madrid
 
-[![dancuenc 42 stats](https://badge.mediaplus.ma/Darkblue/dancuenc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![dancuenc's 42 stats](https://badge.mediaplus.ma/darkblue/dancuenc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 **Currently in CPP02** — transitioning from C to C++ (OOP, canonical form, operator overloading).
 
