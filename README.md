@@ -11,7 +11,7 @@ Studying at **42 Madrid** · Building real projects with real problems.
 
 3 years managing stock, suppliers and purchasing in retail before discovering I'd rather build the systems than operate them. Now I focus on backend, systems programming and automation — solid foundations in C, moving into Java/Spring Boot and C++.
 
-Open to junior backend / systems opportunities in Madrid.
+Open to junior opportunities in Madrid or remote.
 
 ---
 
@@ -43,8 +43,7 @@ A SaaS for intelligent stock management in the vape industry. Scrapes the two ma
 ---
 
 ### 🎓 42 Madrid
-
-[![dancuenc's 42 stats](https://badge.mediaplus.ma/darkblue/dancuenc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<!--[![dancuenc's 42 stats](https://badge.mediaplus.ma/darkblue/dancuenc?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)-->
 
 **Currently in CPP02** — transitioning from C to C++ (OOP, canonical form, operator overloading).
 
@@ -58,15 +57,3 @@ A SaaS for intelligent stock management in the vape industry. Scrapes the two ma
 | **[get_next_line](https://github.com/dcuencag/get_next_line)** — line-by-line file reading | C | 125/100 |
 | **[ft_printf](https://github.com/dcuencag/ft_printf)** — custom printf implementation | C | 100/100 |
 | **[libft](https://github.com/dcuencag/libft)** — standard library reimplementation | C | 125/100 |
-
----
-
-### 📊 GitHub Activity
-
-<!--
-![dcuencag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcuencag&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
--->
-
-![dcuencag's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dcuencag&theme=github_dark)
-
-![dcuencag's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcuencag&theme=tokyonight&hide_border=false)
